@@ -70,7 +70,7 @@ void klopfwin(int pin){
 
 void loop() {
 
-  //Eine Pseudozufallszahl zwischen 0 und 5 wird generiert. (Der Maximalwert in der Klammer -1)
+  //Eine Pseudozufallszahl zwischen 0 und 3 wird generiert. (Der Maximalwert in der Klammer -1)
   randNumber = random(4); //Bei Erweiterung auf mehr Taster muss die Zahl hier angepasst werden!
 
   //In zufälliger Reihenfolge werden die Eingangspins abgefragt, wenn einer "LOW" ist, wird "klopfwin" gesprungen.
