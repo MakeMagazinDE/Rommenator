@@ -10,7 +10,5 @@ Maker Media GmbH
 ![Picture](https://github.com/MakeMagazinDE/Rommenator/blob/main/rommenator.png)
 
 Hier findet ihr die benötigten Dateien für den 3D-Druck und die Sketches für die Arduino IDE. 
-
 <br><br>
 Den vollständigen Artikel gibt es in der [Make-Ausgabe 2/2022](https://www.heise.de/select/make/2022/2/2204811582405563530) zu lesen. 
-
