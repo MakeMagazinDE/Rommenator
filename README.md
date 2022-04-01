@@ -7,7 +7,7 @@ Maker Media GmbH
 
 ### Mit diesem aufladbaren Arduino-Buzzer-System seid ihr bestens für die nächste Runde Rommé gerüstet. Anstatt zu klopfen, wird ab sofort nur noch gebuzzert. Für mehr Fairness und weniger Diskussionen am Spieltisch. 
 
-![Picture](https://github.com/MakeMagazinDE/Posteule/blob/main/rommenator.png)
+![Picture](https://github.com/MakeMagazinDE/Rommenator/blob/main/rommenator.png)
 
 Hier findet ihr die benötigten Dateien für den 3D-Druck und die Sketches für die Arduino IDE. 
 
